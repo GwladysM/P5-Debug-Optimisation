@@ -38,8 +38,15 @@ body {
 	color: #000
 }
 
+.social-link {
+	display: block;
+	width: 20px;
+	height: 20px;
+}
+
 .social-link img {
 	width: 20px;
+	height: 20px;
 }
 
 #about {
